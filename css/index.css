@@ -184,6 +184,22 @@ nav a{
 .box10{
     background-color: dodgerblue;
 }
+
+.p1{
+    border-bottom: 1px dashed black;
+    margin-bottom: 20px;
+}
+.we{
+  display: flex;
+  flex-direction: row;  
+}
+
+.p2{
+    flex-direction: column;
+    border-bottom: 1px dashed black;
+}
+
+
    
 
 
